@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi there, I'm Arjun AJ  
 
-<!--
-**aj110arjun/aj110arjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Python Developer | Django Enthusiast | Web & Software Developer**  
+💡 Passionate about building scalable web apps and learning modern technologies.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🎓 About Me
+- 🎓 Currently studying at **Prototype** and pursuing expertise in **Python and Django**.  
+- 💻 Developed my first major project — **[GearUp](https://github.com/yourusername/gearup)**, a **Django-based e-commerce website** for survival gear and accessories.  
+- 🌍 From **Trivandrum, India**.  
+- 🔍 Exploring **DevOps tools** and **cloud deployment** using AWS, Nginx, and Docker.  
+- ✨ Always curious about open-source, clean UI/UX, and modern backend architecture.  
+
+---
+
+## 🔭 Current Focus
+- 🛠️ Enhancing **GearUp** with custom admin features and authentication.  
+- ☁️ Hosting Django apps using **AWS EC2**, **Nginx**, and **Gunicorn**.  
+- 🧩 Strengthening algorithm and data structure skills on **LeetCode**.  
+
+---
+
+## 🧠 Skills & Technologies
+
+### 💬 Languages
+`Python` • `JavaScript` • `HTML` • `CSS` • `SQL`
+
+### 🧱 Frameworks & Tools
+`Django` • `Tailwind CSS` • `Bootstrap` • `REST API`
+
+### ⚙️ DevOps & Hosting
+`AWS EC2` • `Nginx` • `Gunicorn` • `Docker (Learning)`
+
+### 🧰 Other Tools
+`Git` • `GitHub` • `PostgreSQL` • `VS Code`
+
+---
+
+## 📈 GitHub Stats
+![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🐦 [Twitter](https://twitter.com/yourhandle)
+- ✉️ [Email Me](mailto:youremail@example.com)
+
+---
+
+⭐ **“Code. Learn. Repeat.”**  
+Feel free to explore my repositories and collaborate! 🤝
+
