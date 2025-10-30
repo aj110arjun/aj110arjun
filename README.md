@@ -7,7 +7,7 @@
 
 ## 👨‍🎓 About Me
 - 🎓 Currently studying at **Prototype** and pursuing expertise in **Python and Django**.  
-- 💻 Developed my first major project — **[GearUp](https://github.com/yourusername/gearup)**, a **Django-based e-commerce website** for survival gear and accessories.  
+- 💻 Developed my first major project — **[GearUp](https://github.com/aj110arjun/GearUp2)**, a **Django-based e-commerce website** for survival gear and accessories.  
 - 🌍 From **Trivandrum, India**.  
 - 🔍 Exploring **DevOps tools** and **cloud deployment** using AWS, Nginx, and Docker.  
 - ✨ Always curious about open-source, clean UI/UX, and modern backend architecture.  
@@ -45,9 +45,8 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- ✉️ [Email Me](mailto:youremail@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/arjun-aj-069162362/)
+- ✉️ [Email Me](mailto:aj110arjun@gmail.com)
 
 ---
 
