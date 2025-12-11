@@ -30,7 +30,7 @@
 `Django` • `Tailwind CSS` • `Bootstrap` • `REST API`
 
 ### ⚙️ DevOps & Hosting
-`AWS EC2` • `Nginx` • `Gunicorn` • `Docker (Learning)`
+`AWS EC2` • `Nginx` • `Gunicorn`
 
 ### 🧰 Other Tools
 `Git` • `GitHub` • `PostgreSQL` • `VS Code`
