@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=YOUR%20NAME&fontSize=60&fontColor=00ff88&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=ARJUN%20AJ&fontSize=60&fontColor=00ff88&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://github.com/aj110arjun">
@@ -14,7 +14,7 @@
 <!-- Profile views & followers -->
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff88&labelColor=0d1117" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00ff88&labelColor=0d1117&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/aj110arjun?style=for-the-badge&color=00ff88&labelColor=0d1117&label=Followers" alt="Followers"/>
 
 </div>
 
