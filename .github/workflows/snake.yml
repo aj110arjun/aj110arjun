@@ -1,4 +1,4 @@
-name: Snake Animation Profile
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -16,12 +16,11 @@ jobs:
       - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: aj110arjun
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_USER: aj110arjun
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
