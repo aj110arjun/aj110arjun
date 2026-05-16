@@ -22,16 +22,16 @@
 
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
 
-```typescript
-const developer = {
-  name:       "Arjun AJ",
-  role:       "Full Stack Developer",
-  location:   "Thiruvananthapuram, India 🌍",
-  focus:      ["Web Apps", "APIs", "Cloud Architecture"],
+```python
+ developer = {
+  name: "Arjun AJ",
+  role: "Full Stack Developer",
+  location: "Thiruvananthapuram, India 🌍",
+  focus: ["Web Apps", "APIs", "Cloud Architecture"],
   currentlyLearning: ["System Design", "DevOps", "AI Integration"],
-  funFact:    "I debug in production and I'm proud of it 😅",
-  openTo:     ["Freelance", "Collaboration", "Full-time Roles"],
-};
+  funFact: "I debug in production and I'm proud of it 😅",
+  openTo: ["Freelance", "Collaboration", "Full-time Roles"]
+}
 ```
 
 <br/>
@@ -46,7 +46,6 @@ const developer = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -82,18 +81,8 @@ const developer = {
 ## 📊 &nbsp;GitHub Stats
 
 <img width="49%" 
-src="https://github-readme-stats.vercel.app/api?username=aj110arjun&show_icons=true&theme=github_dark&hide_border=true" 
-alt="GitHub Stats" />
-
-<img width="49%" 
 src="https://github-readme-streak-stats.herokuapp.com/?user=aj110arjun&theme=github-dark-blue&hide_border=true" 
 alt="GitHub Streak" />
-
-<br/>
-
-<img width="40%" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj110arjun&layout=compact&theme=github_dark&hide_border=true" 
-alt="Top Languages" />
 
 <br/>
 
