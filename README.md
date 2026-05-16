@@ -193,7 +193,7 @@ alt="Activity Graph" />
   </tr>
 </table>
 <div align="center">
-### 📂 &nbsp;[View All Repositories](https://github.com/aj110arjun?tab=repositories)
+  ### 📂 &nbsp;[View All Repositories](https://github.com/aj110arjun?tab=repositories)
  
 </div>
 
