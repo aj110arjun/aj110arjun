@@ -93,6 +93,111 @@ alt="Activity Graph" />
 
 </div>
 
+</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">
+        <a href="https://github.com/aj110arjun/custom_admin">
+          🔐 Custom Admin
+        </a>
+      </h3>
+      <p align="center">
+        Admin dashboard with custom controls and user management system
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">
+        <a href="https://github.com/aj110arjun/dj_login">
+          🔑 DJ Login
+        </a>
+      </h3>
+      <p align="center">
+        Django authentication system with secure login & registration
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">
+        <a href="https://github.com/aj110arjun/papergrid">
+          📋 Papergrid
+        </a>
+      </h3>
+      <p align="center">
+        Responsive grid layout system for modern web design
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Responsive-00ff88?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">
+        <a href="https://github.com/aj110arjun/Portfolio">
+          🎨 Portfolio
+        </a>
+      </h3>
+      <p align="center">
+        Personal portfolio showcasing projects & skills with smooth animations
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">
+        <a href="https://github.com/aj110arjun/Studyo">
+          📚 Studyo
+        </a>
+      </h3>
+      <p align="center">
+        Learning management system built with Django & Python
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">
+        <a href="https://github.com/aj110arjun/GearUp">
+          ⚙️ GearUp
+        </a>
+      </h3>
+      <p align="center">
+        E-commerce gear store with product catalog & shopping features
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
+<div align="center">
+### 📂 &nbsp;[View All Repositories](https://github.com/aj110arjun?tab=repositories)
+ 
+</div>
+
+
 
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 
