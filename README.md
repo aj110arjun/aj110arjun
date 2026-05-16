@@ -75,6 +75,21 @@ const developer = {
 
 <br/>
 
+<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
+ 
+<div align="center">
+## 📊 &nbsp;GitHub Stats
+ 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aj110arjun&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b949e&border_radius=10" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aj110arjun&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border_radius=10" alt="GitHub Streak" />
+<br/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj110arjun&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=8b949e&border_radius=10&langs_count=8" alt="Top Languages" />
+<br/>
+<!-- Activity Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aj110arjun&theme=github-compact&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&hide_border=true&area=true&area_color=00ff8820" alt="Activity Graph" />
+</div>
+
+
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 
 <!-- 🐍 Snake Contribution Animation -->
