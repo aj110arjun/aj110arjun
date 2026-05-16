@@ -75,21 +75,6 @@ const developer = {
 
 <br/>
 
-<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
-
-<div align="center">
-
-## 📊 &nbsp;GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aj110arjun&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b949e&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border_radius=10" />
-
-<br/>
-
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 
 <!-- 🐍 Snake Contribution Animation -->
