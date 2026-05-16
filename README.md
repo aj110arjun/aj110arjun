@@ -99,20 +99,12 @@ const developer = {
 
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 
+<!-- 🐍 Snake Contribution Animation -->
 <div align="center">
 
 ## 🐍 &nbsp;Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/aj110arjun/aj110arjun/output/github-contribution-grid-snake-dark.svg" />
-    
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/aj110arjun/aj110arjun/output/github-contribution-grid-snake.svg" />
-    
-  <img alt="github contribution grid snake animation" 
-    src="https://raw.githubusercontent.com/aj110arjun/aj110arjun/output/github-contribution-grid-snake.svg" />
-</picture>
+![snake gif](https://raw.githubusercontent.com/aj110arjun/aj110arjun/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
